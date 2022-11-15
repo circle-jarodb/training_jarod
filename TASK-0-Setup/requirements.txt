@@ -1,0 +1,9 @@
+Pandas
+Numpy
+Selenium
+Requests
+webdriver-manager
+matplotlib
+seaborn
+pymysql
+SQLAlchemy
